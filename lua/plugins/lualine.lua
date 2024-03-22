@@ -4,7 +4,10 @@ return {
 	require('lualine').setup({	
 		option = {
 			theme = 'dracula'
-		}
+		},
+		sections = {
+			lualine_c = {{ 'filename', path=2}}
+		},
 	})
 	end
 }

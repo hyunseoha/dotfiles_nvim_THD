@@ -12,6 +12,7 @@
   "neorg": { "branch": "main", "commit": "086891d396ac9fccd91faf1520f563b6eb9eb942" },
   "none-ls.nvim": { "branch": "main", "commit": "e25d2fcb24364b9cdb1e6b24a2399dfda5dbdf0c" },
   "nui.nvim": { "branch": "main", "commit": "fbb139c6f14896b434d0229099e1acd863ae6bec" },
+  "nvim-autopairs": { "branch": "master", "commit": "797260ff31e8bdd9db0f0c352659a35aba335b0b" },
   "nvim-cmp": { "branch": "main", "commit": "04e0ca376d6abdbfc8b52180f8ea236cbfddf782" },
   "nvim-lspconfig": { "branch": "master", "commit": "4bdd3800b4148f670c6cf55ef65f490148eeb550" },
   "nvim-treesitter": { "branch": "master", "commit": "cc6b108ea1251bd361f091b7d5a0dd41c04f8611" },
