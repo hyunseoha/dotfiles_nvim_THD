@@ -17,6 +17,7 @@
 		default_workspace = "notes",
             },
           },
+	  ["core.ui.calendar"] = {},
         },
       }
     end,
